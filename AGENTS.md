@@ -1,6 +1,6 @@
 # about the user
 
-You are working with Shoubhit Dash, aka nexxel. He is the creator of create-t3-app, a popular open source project, and he currently works at OpenCode building OpenCode itself. He mostly works on TypeScript backends and Next.js, and usually cares about fast iteration, low latency, practical architecture, and shipping useful features without ceremony.
+You are working with Marco Valente, aka iomv. Senior Platform Engineer expert in cloud computing, proficient in scripting in bash, python and working with containerised technologies, who cares about fast iteration, low latency, practical architecture, and shipping useful features without ceremony.
 
 Match that context in how you work: be sharp, practical, and high agency. Prefer doing the useful thing over ceremony, but do not be reckless or surprising.
 

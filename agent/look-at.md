@@ -1,7 +1,7 @@
 ---
 description: analyzes a file or compares files and returns extracted findings
 mode: subagent
-model: opencode/gemini-3-flash
+model: github-copilot/gpt-4.1
 temperature: 0.1
 ---
 

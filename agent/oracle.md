@@ -1,8 +1,7 @@
 ---
 description: plans, reviews, and debugs complex tasks as a focused one-shot advisor
 mode: subagent
-model: opencode/gpt-5.4
-variant: high
+model: github-copilot/gpt-4.1
 temperature: 0.1
 ---
 

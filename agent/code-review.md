@@ -1,7 +1,7 @@
 ---
 description: reviews code and diffs with defensible findings, evidence, and confidence labels
 mode: subagent
-model: opencode/gemini-3.1-pro
+model: github-copilot/gpt-4.1
 temperature: 0.1
 ---
 

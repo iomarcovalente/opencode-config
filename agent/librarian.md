@@ -1,7 +1,7 @@
 ---
 description: researches remote repositories and libraries with deep, evidence-backed explanations
 mode: subagent
-model: opencode/claude-sonnet-4-6
+model: github-copilot/gpt-4.1
 temperature: 0.1
 ---
 

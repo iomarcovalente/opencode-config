@@ -1,7 +1,7 @@
 ---
 description: performs fast, focused codebase search for non-trivial engineering questions
 mode: subagent
-model: opencode/gpt-5.4-mini
+model: github-copilot/gpt-4.1
 temperature: 0.1
 ---
 
