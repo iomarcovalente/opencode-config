@@ -1,7 +1,7 @@
 ---
 description: analyzes a file or compares files and returns extracted findings
 mode: subagent
-model: github-copilot/gpt-4.1
+model: opencode/gpt-6-sol
 temperature: 0.1
 ---
 
